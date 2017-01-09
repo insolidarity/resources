@@ -1,5 +1,12 @@
 # Resources
 
+## Organizations
+
+[This spreadsheet](https://github.com/insolidarity/resources/blob/master/organizations.csv) contains a list of organizatins you can donate and volunteer for. It's originally based off most of the organizations found in [this Jezebel article](http://jezebel.com/a-list-of-pro-women-pro-immigrant-pro-earth-anti-big-1788752078?rev=1478710019591).
+
+Please submit pull requests with your organization suggestions.
+
+## Links
 - [A List of Pro-Women, Pro-Immigrant, Pro-Earth, Anti-Bigotry Organizations That Need Your Support — Jezebel](http://jezebel.com/a-list-of-pro-women-pro-immigrant-pro-earth-anti-big-1788752078?rev=1478710019591)
 - [Holy Fuck The Election](http://www.holyfucktheelection.com/)
 - [wall-of-us](https://www.wall-of-us.org/)
