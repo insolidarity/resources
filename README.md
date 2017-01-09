@@ -7,6 +7,7 @@
 Please submit pull requests with your organization suggestions.
 
 ## Links
+- [Scripts & Letters - Reistance Database](https://sites.google.com/view/resistancedb/scripts-letters). Call scripts and letters to use when engaging with elected representatives.
 - [A List of Pro-Women, Pro-Immigrant, Pro-Earth, Anti-Bigotry Organizations That Need Your Support — Jezebel](http://jezebel.com/a-list-of-pro-women-pro-immigrant-pro-earth-anti-big-1788752078?rev=1478710019591)
 - [Holy Fuck The Election](http://www.holyfucktheelection.com/)
 - [wall-of-us](https://www.wall-of-us.org/)
