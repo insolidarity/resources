@@ -2,7 +2,7 @@
 
 ## Organizations
 
-[This spreadsheet](https://github.com/insolidarity/resources/blob/master/organizations.csv) contains a list of organizatins you can donate and volunteer for. It's originally based off most of the organizations found in [this Jezebel article](http://jezebel.com/a-list-of-pro-women-pro-immigrant-pro-earth-anti-big-1788752078?rev=1478710019591).
+[This spreadsheet](https://github.com/insolidarity/resources/blob/master/organizations.csv) contains a list of organizations you can donate and volunteer for. It's originally based off most of the organizations found in [this Jezebel article](http://jezebel.com/a-list-of-pro-women-pro-immigrant-pro-earth-anti-big-1788752078?rev=1478710019591).
 
 Please submit pull requests with your organization suggestions.
 
